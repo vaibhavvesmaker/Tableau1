@@ -30,11 +30,3 @@ Today's project focuses on analyzing **World Happiness Scores from 2015 to 2017*
 - Geographic & Demographic Analysis  
 📌 **Outcome**: Strengthen my data visualization expertise and contribute to my **public Tableau portfolio**.
 
-## **How to Follow My Journey?**  
-🚀 Check out my **GitHub repository** for all **Tableau projects** (Link to be added).  
-🔗 Stay updated on my **LinkedIn** where I’ll be sharing key insights from each project.  
-💡 Suggestions for datasets? Feel free to reach out!  
-
----
-
-This **README format** clearly describes your **Tableau daily challenge**, highlights the **current project**, and provides context on your **future plans**. Let me know if you'd like any refinements! 🚀
